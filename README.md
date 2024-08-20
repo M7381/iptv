@@ -1,4 +1,4 @@
-https://line/iboplayer.m3u=plus# IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
+IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
 
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
