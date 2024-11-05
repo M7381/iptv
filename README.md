@@ -1,5 +1,5 @@
 https://iptv-org.github.io/iptv/index.m3u [!]update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
-https://khewal.com
+https://khewal.com/m3u
 Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
 
 ## Table of contents
