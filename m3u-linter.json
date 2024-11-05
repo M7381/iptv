@@ -1,6 +1,6 @@
-{https://iptv-org.github.io/iptv/index.m3u
+{https://movistarplus.es/
   "files": ["streams/*.m3u"],
-  "rules":https://movistarplus.es/
+  "rules"
     "no-empty-lines": true,
     "require-header": true,
     "attribute-quotes": true,
