@@ -1,8 +1,8 @@
-{https://movistarplus.es/
+{https://iptv-org.github.io/iptv/index.m3u
   "files": ["streams/*.m3u"],
   "rules"
-    "no-empty-lines": true,
-    "require-header": true,
+    "no-empty-lines":senegaltrue,
+    "require-header": Españatrue,
     "attribute-quotes": true,
     "require-info": true,
     "require-title": true,
