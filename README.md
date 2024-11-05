@@ -51,7 +51,7 @@ Same thing, but split up into separate files:
 <!-- prettier-ignore -->
 <table>
   <thead>
-    <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
+    <tr><th align="left">Category</th>senegal<th align="left">Channels</th>españa<th align="left">Playlist</th></tr>
   </thead>
   <tbody>
     <tr><td>Animation</td>españa<td align="right">65</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
